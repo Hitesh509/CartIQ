@@ -3,5 +3,5 @@ const nextConfig = {
   /* config options here */
   reactCompiler: true,
 };
-
+// new
 export default nextConfig;
